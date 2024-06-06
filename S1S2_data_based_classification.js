@@ -1,3 +1,4 @@
+// import training data points and geometry
 Map.addLayer(roi)
 Map.setCenter(93.7893, 24.5535,20) ;
 
